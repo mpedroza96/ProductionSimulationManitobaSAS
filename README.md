@@ -1,2 +1,2 @@
 # ProductionSimulationManitobaSAS
-Simulation model and analysis of the production line in the Manitoba SAS chocolate peanut line
+Simulation model and analysis of the production process of chocolate peanut and blueberries in the company "Manitoba SAS"
